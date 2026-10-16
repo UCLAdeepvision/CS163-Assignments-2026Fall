@@ -23,7 +23,7 @@ Read the assignment document, which is the README.md file in the directory for e
 | Assignment | Out | Due |
 | --- | --- | --- |
 | Assignment 1 | Wednesday, Sept 30 | Tuesday, Oct 13 |
-| Assignment 2 | Monday, Oct 12 | Sunday, Oct 25 |
-| Assignment 3 | Monday, Oct 26 | Sunday, Nov 8 |
-| Assignment 4 | Monday, Nov 9 | Sunday, Nov 22 |
-| Mini Project | Monday, Nov 9 | Sunday, Dec 13 |
+| Assignment 2 | Monday, Oct 12 | Sunday, Nov 8 |
+| Assignment 3 | Monday, Nov 9 | Sunday, Nov 22 |
+| Assignment 4 | Monday, Nov 16 | Wednesday, Dec 2 |
+| Mini Project | Monday, Nov 16 | Friday, Dec 11 |
